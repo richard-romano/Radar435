@@ -11,6 +11,8 @@
   <br>
   Class folders for python code, simulation files, and presentations.
   <br>
+  <br><b>Please go to the Winter 2020 Branch to find individual team folders.</b>
+  <br>
   <a href="https://github.com/richard-romano/Radar435/wiki"><strong>Radar 4/535 Wiki »</strong></a>
   <br>
   <br>
