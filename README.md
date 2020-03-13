@@ -30,11 +30,15 @@
 
 
 ## Quick start
-
-Several quick start options are available:
-
-- Download the latest release.
-- Clone the repo: `git clone https://github.com/richard-romano/Radar435.git`
+<b>Some basic instructions for how to add your stuff to github:</b><br>
+1. Fork the project (Fork button in top right) & clone locally. This is now your workspace.
+2. Create an upstream remote and sync your local copy before you branch.
+- Use 'https://github.com/richard-romano/Radar435.git'
+3. Branch for each separate piece of work.
+4. Do the work, write good commit messages, and read the CONTRIBUTING file if there is one.
+5. Push to your origin repository.
+6. Create a new Pull Request in GitHub.
+7. Admin will either merge your stuff into the github or give feedback on required changes.
 
 
 ## Status
@@ -46,3 +50,6 @@ Newly formed github.
 What are we doing here?
 
 
+## Documentation
+
+Probably need some.
