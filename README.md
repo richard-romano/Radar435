@@ -40,6 +40,8 @@
 6. Create a new Pull Request in GitHub.
 7. Admin will either merge your stuff into the github or give feedback on required changes.
 
+<b>Beginner's Guide:</b><br>
+https://www.youtube.com/watch?v=dSl_qnWO104
 
 ## Status
 
